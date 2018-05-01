@@ -2,7 +2,5 @@
   "lib/python3.6/site-packages/more_itertools/tests/test_more.py": true,
   "lib/python3.6/site-packages/more_itertools/tests/test_recipes.py": true,
   "lib/python3.6/site-packages/tests/test_client.py": true,
-  "lib/python3.6/site-packages/tests/test_parse.py": true,
-  "temp/test_wallet.py::test_wallet_spend_cash": true,
-  "temp/test_wallet.py::test_wallet_spend_cash_raises_exception_on_insufficient_amount": true
+  "lib/python3.6/site-packages/tests/test_parse.py": true
 }
