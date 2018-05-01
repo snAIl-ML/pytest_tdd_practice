@@ -1,0 +1,7 @@
+{
+  "lib/python3.6/site-packages/more_itertools/tests/test_more.py": true,
+  "lib/python3.6/site-packages/more_itertools/tests/test_recipes.py": true,
+  "lib/python3.6/site-packages/tests/test_client.py": true,
+  "lib/python3.6/site-packages/tests/test_parse.py": true,
+  "temp/test_wallet.py": true
+}
