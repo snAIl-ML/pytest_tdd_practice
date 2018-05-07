@@ -1,12 +1,10 @@
-"""
-Wallet Example
-"""
+"Wallet Example"
 class InsufficientAmount(Exception):
-    """InsufficientAmount Class for edge case"""
+    "InsufficientAmount Class for edge case"
     pass
 
 class Wallet(object):
-
+    "Wallet Class for balance and several functions"
     def __init__(self, balance=0):
         self.balance = balance
 
