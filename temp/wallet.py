@@ -13,7 +13,7 @@ class Wallet(object):
         self.balance += amount
 
     def spend_cash(self, amount):
-        ""
+        "Reduction of money"
         if self.balance < amount:
             raise InsufficientAmount('You do not have that much money')
         self.balance -= amount
