@@ -1,5 +1,6 @@
-
-
+"""
+Wallet Example
+"""
 class InsufficientAmount(Exception):
     pass
 
