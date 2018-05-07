@@ -2,6 +2,7 @@
 Wallet Example
 """
 class InsufficientAmount(Exception):
+    """InsufficientAmount Class for edge case"""
     pass
 
 class Wallet(object):
