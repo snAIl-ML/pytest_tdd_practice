@@ -1,4 +1,5 @@
 # test_wallet.py
+'Test for wallet.py'
 import pytest
 from wallet import Wallet, InsufficientAmount
 
