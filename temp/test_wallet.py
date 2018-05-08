@@ -25,7 +25,7 @@ def test_wallet_spend_cash():
     wallet.spend_cash(10)
     assert wallet.balance == 10
 
-def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
+def test_wallet_spend_cash_error():
     'Error raising test'
     wallet = Wallet()
     with pytest.raises(InsufficientAmount):
