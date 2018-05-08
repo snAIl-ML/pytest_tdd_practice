@@ -1,7 +1,7 @@
 'Test for capitalize_case.py'
 import pytest
 
-from capital_case import *
+from capital_case import capital_case
 
 def test_capital_case():
     'Main purpose of function'
