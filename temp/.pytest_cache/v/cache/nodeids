@@ -1,4 +1,9 @@
 [
   "test_capitalize.py::test_capital_case",
-  "test_capitalize.py::test_raises_exception_on_non_string_arguments"
+  "test_capitalize.py::test_raises_exception_on_non_string_arguments",
+  "test_wallet.py::test_default_initial_amount",
+  "test_wallet.py::test_setting_initial_amount",
+  "test_wallet.py::test_wallet_add_cash",
+  "test_wallet.py::test_wallet_spend_cash",
+  "test_wallet.py::test_wallet_spend_cash_raises_exception_on_insufficient_amount"
 ]
