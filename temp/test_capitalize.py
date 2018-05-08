@@ -1,3 +1,4 @@
+'Test for capitalize_case.py'
 import pytest
 
 from capital_case import *
