@@ -14,6 +14,7 @@ def test_setting_initial_amount():
     assert wallet.balance == 100
 
 def test_wallet_add_cash():
+    'Test function'
     wallet = Wallet(10)
     wallet.add_cash(90)
     assert wallet.balance == 100
