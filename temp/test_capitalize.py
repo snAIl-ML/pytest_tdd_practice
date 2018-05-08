@@ -8,5 +8,6 @@ def test_capital_case():
     assert capital_case('semaphore') == 'Semaphore'
 
 def test_raises_exception_on_non_string_arguments():
+    'Error raising test'
     with pytest.raises(TypeError):
         capital_case(9)
