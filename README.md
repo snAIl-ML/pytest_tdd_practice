@@ -61,10 +61,6 @@ To update your environment after cloning the repository, run the following comma
 ```bash
 >pip3 install requirements
 ```
-To start the server, run the following command on the shell:
-```bash
->python snailMLserver.py # Start the server at localhost:8000
-```
 You can invoke testing through the Python interpreter from the shell:
 ```bash
 >python -m pytest [...]
