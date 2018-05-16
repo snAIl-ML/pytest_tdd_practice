@@ -47,7 +47,7 @@ The blog is here:
 [Blog](https://medium.com/team-snail)
 
 ## About this Repository ☝️
-snail_ML_server contains the image classifier API as well as the web app that allows user interaction
+pytest_tdd_practice contains exercises to practice for TDD in python
 
 
 ## Contributing 🎭
